@@ -1,0 +1,32 @@
+{
+  "run": {
+    "command": "nx serve order-service",
+    "startTime": "2026-04-08T18:45:56.119Z",
+    "endTime": "2026-04-08T18:46:13.065Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "@org/order-service:build",
+      "target": "build",
+      "projectName": "@org/order-service",
+      "hash": "12401280181366638233",
+      "startTime": "2026-04-08T18:45:56.142Z",
+      "endTime": "2026-04-08T18:45:56.164Z",
+      "params": "",
+      "cacheStatus": "local-cache-hit",
+      "status": 0
+    },
+    {
+      "taskId": "@org/order-service:serve:development",
+      "target": "serve",
+      "projectName": "@org/order-service",
+      "hash": "15983426694550157501",
+      "startTime": "2026-04-08T18:45:56.176Z",
+      "endTime": "2026-04-08T18:46:13.021Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,1232 @@
+{
+  "auth-service": {
+    "root": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.dependsOn": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.cache": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.inputs": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.outputs": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.syncGenerators": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.executor": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.cwd": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.command": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies.0": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.description": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.command": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.example": [
+      "auth-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "projectType": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.cache": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.dependsOn": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.outputs": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.syncGenerators": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.executor": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.cwd": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.args": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.command": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.technologies": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.technologies.0": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.description": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.command": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.example": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.continuous": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.syncGenerators": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.executor": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.cwd": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.args": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.command": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies.0": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.description": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.command": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.example": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps.dependsOn": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.continuous": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.dependsOn": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.executor": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options.command": [
+      "auth-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "name": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.configurations": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.configurations.development": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.configurations.development.args": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.dependsOn": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.cache": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.executor": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.outputs": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.options": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.options.buildTarget": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.dependsOn": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.cache": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.outputs": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.executor": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.options": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.options.buildTarget": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune.dependsOn": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune.executor": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.continuous": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.executor": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.dependsOn": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.options": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.options.runBuildTargetDependencies": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.development": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.production": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "auth-service/package.json",
+      "nx/core/package-json"
+    ]
+  },
+  "auth-service-e2e": {
+    "root": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.dependsOn": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.cache": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.inputs": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.outputs": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.syncGenerators": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.executor": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.cwd": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.command": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies.0": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.description": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.command": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.example": [
+      "auth-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "name": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "implicitDependencies": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "implicitDependencies.@org/auth-service": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.executor": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.outputs": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.options": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.dependsOn": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.options.jestConfig": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.options.passWithNoTests": [
+      "auth-service-e2e/package.json",
+      "nx/core/package-json"
+    ]
+  },
+  "order-service": {
+    "root": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.dependsOn": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.cache": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.inputs": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.outputs": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.syncGenerators": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.executor": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.cwd": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.command": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies.0": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.description": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.command": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.example": [
+      "order-service/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "projectType": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.cache": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.dependsOn": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.outputs": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.syncGenerators": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.executor": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.cwd": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.args": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.command": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.technologies": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.technologies.0": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.description": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.command": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.example": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.continuous": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.syncGenerators": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.executor": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.cwd": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.args": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.command": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies.0": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.description": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.command": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.example": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps.dependsOn": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.continuous": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.dependsOn": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.executor": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options.command": [
+      "order-service/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "name": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.configurations": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.configurations.development": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.configurations.development.args": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.dependsOn": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.cache": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.executor": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.outputs": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.options": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune-lockfile.options.buildTarget": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.dependsOn": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.cache": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.outputs": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.executor": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.options": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.copy-workspace-modules.options.buildTarget": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune.dependsOn": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.prune.executor": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.continuous": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.executor": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.dependsOn": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.options": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.options.runBuildTargetDependencies": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.development": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.production": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "order-service/package.json",
+      "nx/core/package-json"
+    ]
+  },
+  "order-service-e2e": {
+    "root": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.dependsOn": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.cache": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.inputs": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.outputs": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.syncGenerators": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.executor": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.cwd": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.command": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies.0": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.description": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.command": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.example": [
+      "order-service-e2e/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "name": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "implicitDependencies": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "implicitDependencies.@org/order-service": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.executor": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.outputs": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.options": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.dependsOn": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.options.jestConfig": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.e2e.options.passWithNoTests": [
+      "order-service-e2e/package.json",
+      "nx/core/package-json"
+    ]
+  },
+  "shared": {
+    "root": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.dependsOn": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.cache": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.inputs": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.outputs": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.syncGenerators": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.executor": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.cwd": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.options.command": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.technologies.0": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.description": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.command": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "targets.typecheck.metadata.help.example": [
+      "shared/tsconfig.json",
+      "@nx/js/typescript"
+    ],
+    "name": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageExports": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageMain": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "shared/package.json",
+      "nx/core/package-json"
+    ]
+  }
+}
